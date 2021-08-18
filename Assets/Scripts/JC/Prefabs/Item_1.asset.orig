@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5334385ee29ede43bffe4fc1c7e2f94, type: 3}
+  m_Name: Item_1
+  m_EditorClassIdentifier: 
+  type: 1
+  type_story: 1
+  name: "\u624B\u956F"
+  Des: "\u65E0"
+<<<<<<< HEAD
+  sprite: {fileID: 21300000, guid: a3b0b9d596a54c5498f1f4aa0ed1d7b9, type: 3}
+  speed: 0
+  life: 0
+  movespeed: 0
+  attack: 0
+  shumei: 0
+  hushengfu: 0
+  jinshu: 0
+  manxue: 0
+  wuxuegjl: 0
+  jishagjl: 0
+=======
+  sprite: {fileID: 21300000, guid: dba8800b67b9e964eb31b58cbc34d316, type: 3}
+  attribute: {fileID: 5182862610002015560, guid: 8631e7bc76656624ba61d7748253837e,
+    type: 3}
+>>>>>>> ff

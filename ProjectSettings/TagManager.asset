@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wolf
+  - Snake
+  - Enter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Monster
+  - Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 3254159091
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: zhujue
+    uniqueID: 4274228301
+    locked: 0
+  - name: samulai
+    uniqueID: 2444655275
+    locked: 0
+  - name: snake
+    uniqueID: 3893583835
+    locked: 0
+  - name: wolf
+    uniqueID: 3437912809
+    locked: 0
+  - name: pig
+    uniqueID: 1215914371
+    locked: 0
+  - name: bear
+    uniqueID: 1378005619
+    locked: 0
+  - name: ff
+    uniqueID: 1975814147
+    locked: 0
+  - name: front
+    uniqueID: 165828299
+    locked: 0
